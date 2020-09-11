@@ -2,6 +2,7 @@
 
 Example:
 ruler(4) prints:
+/*
 -
 --
 -
@@ -33,3 +34,4 @@ ruler(4) prints:
 -
 --
 -
+/*
